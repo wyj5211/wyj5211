@@ -1,6 +1,7 @@
 # 🙋 Hello  
 吾名为wyj5211  
 来Github混日子的  
+写代码新手
 # 🚀 Actions  
 <!-- GitHub数据统计 -->
 <div align="center">
