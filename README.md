@@ -1,7 +1,7 @@
 # 🙋 Hello  
 吾名为wyj5211  
 写代码新手   
-[欢迎来blog逛逛](https://blog.wyj5211.me)
+[欢迎来blog逛逛](https://blog.wyj5211.top)
 # 🚀 Actions  
 <!-- GitHub数据统计 -->
 <div align="center">
